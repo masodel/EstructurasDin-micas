@@ -1,0 +1,11 @@
+C:\Users\mauso\Documents\Estructuras\Estrcturada1\Estrcturada1\bin\Debug\Estrcturada1.exe.config
+C:\Users\mauso\Documents\Estructuras\Estrcturada1\Estrcturada1\bin\Debug\Estrcturada1.exe
+C:\Users\mauso\Documents\Estructuras\Estrcturada1\Estrcturada1\bin\Debug\Estrcturada1.pdb
+C:\Users\mauso\Documents\Estructuras\Estrcturada1\Estrcturada1\obj\Debug\Estrcturada1.csproj.AssemblyReference.cache
+C:\Users\mauso\Documents\Estructuras\Estrcturada1\Estrcturada1\obj\Debug\Estrcturada1.FrmPilaM.resources
+C:\Users\mauso\Documents\Estructuras\Estrcturada1\Estrcturada1\obj\Debug\Estrcturada1.Properties.Resources.resources
+C:\Users\mauso\Documents\Estructuras\Estrcturada1\Estrcturada1\obj\Debug\Estrcturada1.csproj.GenerateResource.cache
+C:\Users\mauso\Documents\Estructuras\Estrcturada1\Estrcturada1\obj\Debug\Estrcturada1.csproj.CoreCompileInputs.cache
+C:\Users\mauso\Documents\Estructuras\Estrcturada1\Estrcturada1\obj\Debug\Estrcturada1.exe
+C:\Users\mauso\Documents\Estructuras\Estrcturada1\Estrcturada1\obj\Debug\Estrcturada1.pdb
+C:\Users\mauso\Documents\Estructuras\Estrcturada1\Estrcturada1\obj\Debug\Estrcturada1.exe.config
